@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<section align="center">
+  <h1 align="center">Hola, Soy Joan Sánchez 👋</h1>
+</section>
 <!--
 **DarielGallegos/DarielGallegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
